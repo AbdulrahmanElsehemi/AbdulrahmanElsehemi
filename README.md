@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sehemy</h1>
 <h3 align="center"> iOS Developer from Egypt</h3>
 
-<p align="left"> <a href="https://twitter.com/sehemi10" target="blank"><img src="https://img.shields.io/twitter/follow/sehemi10?logo=twitter&style=for-the-badge" alt="sehemi10" /></a> </p>
-
 - 🔭 I’m currently working at [Al7osam CO](https://www.al7osam.com.sa)
 
 - 🌱 I’m currently learning *Vapor*
